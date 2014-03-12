@@ -1,0 +1,10 @@
+
+construction permission check
+
+cancel if imageview is reused
+
+
+pool warmup
+pool size config
+pause
+different types of drawables
